@@ -1,0 +1,6 @@
+{
+  "name": "The Bakery Cafe",
+  "description": "A premium, fully responsive website for The Bakery Cafe in Mardan, Pakistan, featuring dynamic menus, table reservations, online ordering, special offers, and interactive galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
